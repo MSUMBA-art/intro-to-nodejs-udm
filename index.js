@@ -1,8 +1,8 @@
-// const superheroes = require("superheroes");
+const superheroes = require("superheroes");
 
-// const mySuperheroes = superheroes.random();
+const mySuperheroes = superheroes.random();
 
-// console.log(mySuperheroes);
+console.log(mySuperheroes);
 
 const supervillains = require("supervillains");
 
